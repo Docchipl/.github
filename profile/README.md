@@ -1,6 +1,6 @@
-## Tak, to my 👋
+## Tak, to nasz GitHub 👋
 
-![Okładka](https://cdn.discordapp.com/attachments/721911008213598238/986321329668112414/Bez-nazwy-1.png)
+![Okładka](https://cdn.discordapp.com/attachments/721911008213598238/992855317647982592/Group_3.png)
 
 Docchi jest małym projektem hobbistycznym, który ma na celu usprawnić znajdowanie tłumaczeń w internecie, jak i samemu tłumaczyć serie. Na dzień dzisiejszy przetłumaczyliśmy trzy serie: 
 
@@ -12,7 +12,7 @@ Docchi jest małym projektem hobbistycznym, który ma na celu usprawnić znajdow
 
 Udostępniamy także moduły NPM do publicznego użytku
 
-- [x](x)
+- [@docchi/scraping-anime-websites-poland](https://www.npmjs.com/package/@docchi/scraping-anime-websites-poland)
 
 ---
 
