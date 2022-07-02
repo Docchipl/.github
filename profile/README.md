@@ -8,6 +8,12 @@ Docchi jest małym projektem hobbistycznym, który ma na celu usprawnić znajdow
 - [Zuihou de Zhaohuan Shi](https://docchi.pl/anime/zuihou-de-zhaohuan-shi-41915)
 - [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru](https://docchi.pl/anime/shijou-saikyou-no-daimaou-murabito-a-ni-tensei-suru-48415)
 
+### 💌 Kontakt
+
+- GitHub: [github.com/ankordii][github]
+- Strona: [https://docchi.pl/][site]
+- E-mail: pomoc@docchi.pl
+
 ### 🔮 Nasze moduły
 
 Udostępniamy także moduły NPM do publicznego użytku
@@ -18,3 +24,5 @@ Udostępniamy także moduły NPM do publicznego użytku
 
 <sub>🤫 Psst! Nie zapomnij wpaść na naszą stronę. [docchi.pl](https://docchi.pl/).</sub>
 
+[github]: https://github.com/ankordii
+[site]: https://docchi.pl/
