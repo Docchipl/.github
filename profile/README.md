@@ -1,6 +1,6 @@
 ## Tak, to nasz GitHub 👋
 
-![Okładka](https://cdn.discordapp.com/attachments/721911008213598238/1034406142799007844/unknown.png)
+![Okładka](https://github.com/docchipl/.github/assets/34755589/90880ad5-a051-4d19-af22-61de70593de1)
 
 Docchi jest małym projektem hobbistycznym, który ma na celu usprawnić znajdowanie tłumaczeń w internecie, jak i samemu tłumaczyć serie. Na dzień dzisiejszy przetłumaczyliśmy cztery serie: 
 
